@@ -52,7 +52,7 @@ A powerful language translation app built using Flutter. This app leverages mode
 [translator](https://pub.dev/packages/translator) - Free Google Translate API for Dart.
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Santhosh-Flutter-Developer/Language-Translator?tab=MIT-1-ov-file) file for details.
 
 ## 🙌 Acknowledgements
 - Thanks to the Flutter team for their amazing framework.
