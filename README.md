@@ -33,7 +33,7 @@ A powerful language translation app built using Flutter. This app leverages mode
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/language-translator.git
+   git clone https://github.com/Santhosh-Flutter-Developer/Language-Translator.git
    cd language-translator
 
 2. **Install dependencies**
