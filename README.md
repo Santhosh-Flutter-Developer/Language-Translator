@@ -1,4 +1,4 @@
-# 🌍 Language Translator App
+# 🌍 Language Translator
 
 A powerful language translation app built using Flutter. This app leverages modern translation APIs to allow seamless translation between multiple languages. It's designed with simplicity and efficiency in mind, featuring a user-friendly interface that provides instant results.
 
